@@ -1,0 +1,26 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dede06373065/exp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dede06373065/exp/issues"
+  },
+  "homepage": "https://github.com/dede06373065/exp#readme",
+  "description": ""
+}
